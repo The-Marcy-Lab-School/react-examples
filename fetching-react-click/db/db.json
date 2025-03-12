@@ -1,0 +1,130 @@
+{
+    
+  "water": [
+  {
+    "id": 1,
+    "name": "Squirtle",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "type": "Water"
+  },
+  {
+    "id": 2,
+    "name": "Totodile",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+    "type": "Water"
+  },
+  {
+    "id": 3,
+    "name": "Mudkip",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+    "type": "Water"
+  },
+  {
+    "id": 4,
+    "name": "Piplup",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png",
+    "type": "Water"
+  },
+  {
+    "id": 5,
+    "name": "Psyduck",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "type": "Water"
+  },
+  {
+    "id": 6,
+    "name": "Poliwag",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "type": "Water"
+  },
+  {
+    "id": 7,
+    "name": "Slowpoke",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "type": "Water/Psychic"
+  },
+  {
+    "id": 8,
+    "name": "Seel",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "type": "Water"
+  },
+  {
+    "id": 9,
+    "name": "Magikarp",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "type": "Water"
+  },
+  {
+    "id": 10,
+    "name": "Lapras",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "type": "Water/Ice"
+  }
+],
+"electric": [
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "type": "Electric"
+  },
+  {
+    "id": 2,
+    "name": "Magnemite",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "type": "Electric/Steel"
+  },
+  {
+    "id": 3,
+    "name": "Voltorb",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "type": "Electric"
+  },
+  {
+    "id": 4,
+    "name": "Electabuzz",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "type": "Electric"
+  },
+  {
+    "id": 5,
+    "name": "Jolteon",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "type": "Electric"
+  },
+  {
+    "id": 6,
+    "name": "Mareep",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+    "type": "Electric"
+  },
+  {
+    "id": 7,
+    "name": "Ampharos",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+    "type": "Electric"
+  },
+  {
+    "id": 8,
+    "name": "Raikou",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+    "type": "Electric"
+  },
+  {
+    "id": 9,
+    "name": "Electrike",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png",
+    "type": "Electric"
+  },
+  {
+    "id": 10,
+    "name": "Luxray",
+    "imageURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png",
+    "type": "Electric"
+  }
+]
+}
+
+
+
